@@ -165,9 +165,9 @@ So if you come back later, you'll hopefully see:
 
 ## 🤝 Let's Connect
 I'm always excited to learn, build, and connect with people who share an interest in technology and development.
-Whether you're learning something new, working on a project, or simply exploring tech — feel free to reach out! 🚀
+Whether you're learning something new, working on a project, or simply exploring tech — feel free to reach out!
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408">
   <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
@@ -185,4 +185,4 @@ Whether you're learning something new, working on a project, or simply exploring
   <img src="https://img.shields.io/badge/CONTACT%20VIA%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Email"/>
 </a>
 
-</p>
+</div>

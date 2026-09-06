@@ -164,17 +164,25 @@ So if you come back later, you'll hopefully see:
 ---
 
 ## 🤝 Let's Connect
+I'm always excited to learn, build, and connect with people who share an interest in technology and development.
+Whether you're learning something new, working on a project, or simply exploring tech — feel free to reach out! 🚀
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408">
-    <img src="YOUR_LINKEDIN_ICON_URL" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Majorrehan18">
-    <img src="YOUR_GITHUB_ICON_URL" width="45" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:majorrehan18@gmail.com">
-    <img src="YOUR_GMAIL_ICON_URL" width="45" alt="Email"/>
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Majorrehan18">
+  <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<br><br>
+
+<a href="mailto:majorrehan18@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20VIA%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Email"/>
+</a>
+
 </p>

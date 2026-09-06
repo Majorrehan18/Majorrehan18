@@ -165,14 +165,16 @@ So if you come back later, you'll hopefully see:
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning from other developers, collaborating on interesting projects, and discovering better ways to build software.
-
-**Learning today. Building tomorrow. 🚀**
-
----
-
-⭐ *Thanks for visiting my profile.*
-
-<p align="center">
-  <i>Building my skills one project at a time.</i>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408">
+    <img src="YOUR_LINKEDIN_ICON_URL" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Majorrehan18">
+    <img src="YOUR_GITHUB_ICON_URL" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:majorrehan18@gmail.com">
+    <img src="YOUR_GMAIL_ICON_URL" width="45" alt="Email"/>
+  </a>
 </p>

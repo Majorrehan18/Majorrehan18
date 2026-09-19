@@ -28,7 +28,7 @@ I prefer learning by **building real projects, solving problems, and documenting
 | ------------------ | ---------------------------------------- |
 | 💻 Programming     | C                                        |
 | 🌐 Web Development | HTML, CSS                                |
-| 🔀 Version Control | Git, GitHub                              |
+| 🔀 Essentials      | Git, GitHub                              |
 | 📐 Fundamentals    | Mathematics & Computer Science           |
 | 🚀 Projects        | Practical, progressively larger projects |
 

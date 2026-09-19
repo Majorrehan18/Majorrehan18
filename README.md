@@ -46,7 +46,8 @@ The project will **grow alongside my skills** rather than being built with techn
 
 **Planned progression:**
 
-To make this project in → `C` 
+To make this project in → `C`
+
 To make this project in → `HTML` + `CSS` + `JavaScript`
 
 ---

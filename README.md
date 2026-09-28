@@ -1,4 +1,4 @@
-# Hi, I'm Rehan 👋 
+# Hi, I'm Rehan 👋
 
 ### BCA Student • Aspiring Software Developer • Building in Public 🚀
 
@@ -10,12 +10,12 @@ I prefer learning by **building real projects, solving problems, and documenting
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Student**
-💻 Currently learning **C Programming**
-🌐 Learning **HTML & CSS**
-🔀 Exploring professional **Git & GitHub workflows**
-📚 Strengthening my **Computer Science & Mathematics fundamentals**
-🛠️ Building projects alongside my coursework
+🎓 **BCA Student**  
+💻 Currently learning **C Programming**  
+🌐 Learning **HTML & CSS**  
+🔀 Exploring professional **Git & GitHub workflows**  
+📚 Strengthening my **Computer Science & Mathematics fundamentals**  
+🛠️ Building projects alongside my coursework  
 🎯 Working toward becoming a **well-rounded software developer**
 
 > **Currently focused on fundamentals. Eventually focused on building things that matter.**
@@ -24,13 +24,13 @@ I prefer learning by **building real projects, solving problems, and documenting
 
 ## 🧠 What I'm Learning
 
-| Area               | Current Focus                            |
-| ------------------ | ---------------------------------------- |
-| 💻 Programming     | C                                        |
-| 🌐 Web Development | HTML, CSS                                |
-| 🔀 Essentials      | Git, GitHub                              |
-| 📐 Fundamentals    | Mathematics & Computer Science           |
-| 🚀 Projects        | Practical, progressively larger projects |
+| Area | Current Focus |
+| --- | --- |
+| 💻 Programming | C |
+| 🌐 Web Development | HTML, CSS |
+| 🔀 Essentials | Git, GitHub |
+| 📐 Fundamentals | Mathematics & Computer Science |
+| 🚀 Projects | Practical, progressively larger projects |
 
 I'm intentionally keeping my current stack small so I can understand the fundamentals properly before moving into more advanced technologies.
 
@@ -71,7 +71,7 @@ This is helping me learn how GitHub can be used for **real collaborative develop
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Tools & Workflow
@@ -95,14 +95,14 @@ I'm not using GitHub only as a code-storage platform.
 
 I'm gradually learning how to use:
 
-* 🌿 **Branches**
-* 🔀 **Pull Requests**
-* 👀 **Code Reviews**
-* 🐛 **Issues & Labels**
-* 📋 **Projects**
-* 🛡️ **Repository Rulesets**
-* ⚙️ **GitHub Actions**
-* 📝 **Documentation & READMEs**
+- 🌿 **Branches**
+- 🔀 **Pull Requests**
+- 👀 **Code Reviews**
+- 🐛 **Issues & Labels**
+- 📋 **Projects**
+- 🛡️ **Repository Rulesets**
+- ⚙️ **GitHub Actions**
+- 📝 **Documentation & READMEs**
 
 The goal is to understand a development workflow that can eventually translate into **team projects and professional environments**.
 
@@ -116,32 +116,32 @@ I don't want to rush through technologies just to make my profile look impressiv
 
 Instead, I'm focusing on:
 
-**Strong fundamentals**
-↓
-**Small practical projects**
-↓
-**Better development workflows**
-↓
-**Larger projects**
-↓
-**Open source & collaboration**
-↓
+**Strong fundamentals**  
+↓  
+**Small practical projects**  
+↓  
+**Better development workflows**  
+↓  
+**Larger projects**  
+↓  
+**Open source & collaboration**  
+↓  
 **Professional development**
 
 ---
 
 ## 🎯 Current Goals
 
-* [ ] Build a strong foundation in C
-* [ ] Become comfortable with HTML & CSS
-* [ ] Learn Git & GitHub properly
-* [ ] Build my **Study Progression Tracker**
-* [ ] Start learning JavaScript
-* [ ] Learn Data Structures & Algorithms
-* [ ] Build larger projects as my skills improve
-* [ ] Learn collaborative development workflows
-* [ ] Eventually contribute to open-source projects
-* [ ] Build a strong developer portfolio
+- [ ] Build a strong foundation in C
+- [ ] Become comfortable with HTML & CSS
+- [ ] Learn Git & GitHub properly
+- [ ] Build my **Study Progression Tracker**
+- [ ] Start learning JavaScript
+- [ ] Learn Data Structures & Algorithms
+- [ ] Build larger projects as my skills improve
+- [ ] Learn collaborative development workflows
+- [ ] Eventually contribute to open-source projects
+- [ ] Build a strong developer portfolio
 
 ---
 
@@ -166,18 +166,25 @@ So if you come back later, you'll hopefully see:
 ---
 
 ## 🤝 Let's Connect
+
 I'm always excited to learn, build, and connect with people who share an interest in technology and development.
+
 Whether you're learning something new, working on a project, or simply exploring tech — feel free to reach out!
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408">
   <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
+
 <br><br>
+
 <a href="https://github.com/Majorrehan18">
   <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
+
 <br><br>
+
 <a href="mailto:majorrehan18@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT%20VIA%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via Email"/>
 </a>

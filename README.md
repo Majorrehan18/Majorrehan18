@@ -171,7 +171,7 @@ I'm always excited to learn, build, and connect with people who share an interes
 
 Whether you're learning something new, working on a project, or simply exploring tech — feel free to reach out!
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mohammed-rehan-moyal-33b437408" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
